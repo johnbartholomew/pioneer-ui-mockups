@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="bulletin-board.svg"
+   inkscape:export-filename="/space/jpab/code/personal/pioneer/ui-mockups/bulletin-board/bulletin-board.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3740">
+      <stop
+         style="stop-color:#edede0;stop-opacity:1;"
+         offset="0"
+         id="stop3742" />
+      <stop
+         style="stop-color:#e0edf5;stop-opacity:1;"
+         offset="1"
+         id="stop3744" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3599"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3740"
+       id="linearGradient3746"
+       x1="400"
+       y1="452.36218"
+       x2="400"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective3888"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5348">
+      <rect
+         y="51.745239"
+         x="15.708961"
+         height="443.99164"
+         width="559.40747"
+         id="rect5350"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective5362"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5380"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.02625"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5233"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="947"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="759.43268,203.2932"
+       id="guide3989" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="728.67354,197.63635"
+       id="guide3991" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient3746);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3605"
+       width="800"
+       height="600"
+       x="0"
+       y="452.36218" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="controls-bg"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.71428576;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4404"
+       width="559.40747"
+       height="443.99164"
+       x="15.708961"
+       y="51.745239" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bulletin-items"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       x="282"
+       y="365"
+       id="text3685"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="282"
+         y="365"
+         id="tspan3687" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       x="47"
+       y="199.54446"
+       id="text3809"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="47"
+         y="199.54446"
+         id="tspan3811" /></text>
+    <g
+       id="g5233"
+       clip-path="url(#clipPath5348)">
+      <g
+         transform="translate(0,-19.488542)"
+         id="g4267">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           x="35"
+           y="76.439293"
+           id="text3629"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="35"
+             y="76.439293"
+             id="tspan3633">NEARBY DELIVERY. Require quick delivery of an item to London.</tspan></text>
+        <path
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.153471,70.83496 0,-11.5 510.844699,0 4.28109,11.5"
+           id="path3749"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g4073">
+          <rect
+             ry="3"
+             rx="3"
+             y="82.189468"
+             x="35.699631"
+             height="14.795752"
+             width="43.851059"
+             id="rect3765"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text3761"
+             y="92.54628"
+             x="37.512939"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="92.54628"
+               x="37.512939"
+               id="tspan3763"
+               sodipodi:role="line">delivery</tspan></text>
+        </g>
+        <g
+           id="g4089">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4080"
+             width="52.476059"
+             height="14.795753"
+             x="81.949631"
+             y="82.189468"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="83.762939"
+             y="92.54628"
+             id="text4082"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4084"
+               x="83.762939"
+               y="92.54628">in-system</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-17.923812)"
+         id="g4280">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           x="35"
+           y="118.25075"
+           id="text3781"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="35"
+             y="118.25075"
+             id="tspan3817">Stargo Warehouse Los Angeles. Commodity items, available in bulk.</tspan></text>
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path3825"
+           d="m 25.153471,114.7095 0,-11.5 510.844699,0 4.28109,11.5"
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           id="g4105"
+           transform="translate(0,-0.97442188)">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4096"
+             width="51.947044"
+             height="14.795746"
+             x="35.699631"
+             y="123.70293"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="37.512939"
+             y="134.05974"
+             id="text4098"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4100"
+               x="37.512939"
+               y="134.05974">merchant</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-16.745754)"
+         id="g4289">
+        <text
+           sodipodi:linespacing="100%"
+           id="text3637"
+           y="158.64182"
+           x="35"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           xml:space="preserve"><tspan
+             id="tspan3639"
+             y="158.64182"
+             x="35"
+             sodipodi:role="line">Visit Honest Roger's Goods Emporium!</tspan></text>
+        <path
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.153471,155.6352 0,-11.5 510.844699,0 4.28109,11.5"
+           id="path3833"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g4110"
+           transform="translate(0,39.035966)">
+          <rect
+             ry="3"
+             rx="3"
+             y="123.70293"
+             x="35.699631"
+             height="14.795746"
+             width="51.947044"
+             id="rect4112"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text4114"
+             y="134.05974"
+             x="37.512939"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="134.05974"
+               x="37.512939"
+               id="tspan4116"
+               sodipodi:role="line">merchant</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-14.322732)"
+         id="g4298">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           x="35"
+           y="199.36758"
+           id="text3821"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="35"
+             y="199.36758"
+             id="tspan3823">CENTRAL SYSTEMS DEFENCE FORCE NEEDS YOU!</tspan></text>
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path3841"
+           d="m 25.153471,194.40062 0,-11.5 510.844699,0 4.28109,11.5"
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           id="g4145"
+           transform="translate(0,-1.550295)">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4120"
+             width="46.34412"
+             height="14.795746"
+             x="35.699631"
+             y="205.06712"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="37.512939"
+             y="215.42393"
+             id="text4122"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4124"
+               x="37.512939"
+               y="215.42393">contract</tspan></text>
+        </g>
+        <g
+           id="g4150"
+           transform="translate(0,-1.550295)">
+          <rect
+             ry="3"
+             rx="3"
+             y="205.06712"
+             x="85.395126"
+             height="14.795746"
+             width="41.959225"
+             id="rect4139"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text4141"
+             y="215.42393"
+             x="87.208435"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="215.42393"
+               x="87.208435"
+               id="tspan4143"
+               sodipodi:role="line">military</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,253.57592)"
+         id="g4311">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           x="35"
+           y="242.74002"
+           id="text3643"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="35"
+             y="242.74002"
+             id="tspan3645">INTER-PLANETARY CARGO. Freight of local cargo to Tranquility Base.</tspan></text>
+        <path
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.153471,237.51877 0,-11.5 510.844699,0 4.28109,11.5"
+           id="path3855"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g4155"
+           transform="translate(0,165.36624)">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4157"
+             width="43.851059"
+             height="14.795752"
+             x="35.699631"
+             y="82.189468"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="37.512939"
+             y="92.54628"
+             id="text4159"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4161"
+               x="37.512939"
+               y="92.54628">delivery</tspan></text>
+        </g>
+        <g
+           id="g4163"
+           transform="translate(0,165.36624)">
+          <rect
+             ry="3"
+             rx="3"
+             y="82.189468"
+             x="81.949631"
+             height="14.795753"
+             width="52.476059"
+             id="rect4165"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text4167"
+             y="92.54628"
+             x="83.762939"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="92.54628"
+               x="83.762939"
+               id="tspan4169"
+               sodipodi:role="line">in-system</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-3.5425037)"
+         id="g4324">
+        <g
+           id="g5533">
+          <path
+             sodipodi:nodetypes="cccccc"
+             id="path5515"
+             d="m 25.153471,321.0443 0,-50.9695 510.844699,0 4.28109,11.5 0,39.4695 -515.125789,0 z"
+             style="fill:#00001f;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#d0ecff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+             x="35"
+             y="284.95859"
+             id="text3647"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               x="35"
+               y="284.95859"
+               id="tspan3649">URGENT DELIVERY to Pluto Research Station.</tspan><tspan
+               id="tspan3651"
+               sodipodi:role="line"
+               x="35"
+               y="296.95859">(TCA-3137 certified environmentally stabilised cargo-bay required)</tspan></text>
+          <g
+             id="g5528">
+            <rect
+               style="fill:#e3e9e1;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+               id="rect4173"
+               width="43.851059"
+               height="14.795752"
+               x="35.699631"
+               y="301.29584"
+               rx="3"
+               ry="3" />
+            <text
+               xml:space="preserve"
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#d0ecff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+               x="37.512939"
+               y="311.65265"
+               id="text4175"
+               sodipodi:linespacing="100%"><tspan
+                 sodipodi:role="line"
+                 id="tspan4177"
+                 x="37.512939"
+                 y="311.65265">delivery</tspan></text>
+          </g>
+          <g
+             id="g5523">
+            <rect
+               ry="3"
+               rx="3"
+               y="301.29584"
+               x="81.949631"
+               height="14.795753"
+               width="52.476059"
+               id="rect4181"
+               style="fill:#e3e9e1;fill-opacity:0.16078432;fill-rule:nonzero;stroke:none" />
+            <text
+               sodipodi:linespacing="100%"
+               id="text4183"
+               y="311.65265"
+               x="83.762939"
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#d0ecff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+               xml:space="preserve"><tspan
+                 y="311.65265"
+                 x="83.762939"
+                 id="tspan4185"
+                 sodipodi:role="line">in-system</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-2.4501157)"
+         id="g4338">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           x="35"
+           y="337.00208"
+           id="text3653"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="35"
+             y="337.00208"
+             id="tspan3661">Short-term bulk delivery contract. Destinations within 80 LY of Sol.</tspan><tspan
+             sodipodi:role="line"
+             x="35"
+             y="349.00208"
+             id="tspan3665">Competitive rates paid!</tspan></text>
+        <path
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.153471,334.2882 0,-11.5 510.844699,0 4.28109,11.5"
+           id="path4057"
+           sodipodi:nodetypes="cccc" />
+        <g
+           transform="translate(0,148.10193)"
+           id="g4187">
+          <rect
+             ry="3"
+             rx="3"
+             y="205.06712"
+             x="35.699631"
+             height="14.795746"
+             width="46.34412"
+             id="rect4189"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text4191"
+             y="215.42393"
+             x="37.512939"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="215.42393"
+               x="37.512939"
+               id="tspan4193"
+               sodipodi:role="line">contract</tspan></text>
+        </g>
+        <g
+           id="g4195"
+           transform="translate(48.069269,270.97958)">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4197"
+             width="43.851059"
+             height="14.795752"
+             x="35.699631"
+             y="82.189468"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="37.512939"
+             y="92.54628"
+             id="text4199"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4201"
+               x="37.512939"
+               y="92.54628">delivery</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-0.82714375)"
+         id="g4352">
+        <text
+           sodipodi:linespacing="100%"
+           id="text3667"
+           y="388.49573"
+           x="35"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           xml:space="preserve"><tspan
+             id="tspan3671"
+             y="388.49573"
+             x="35"
+             sodipodi:role="line">Looking for a job on a space hauler. Any offers considered.</tspan></text>
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path4059"
+           d="m 25.153471,385.63083 0,-11.5 510.844699,0 4.28109,11.5"
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           id="g4214">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4205"
+             width="27.586502"
+             height="14.795746"
+             x="35.699631"
+             y="393.12033"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="37.512939"
+             y="403.47714"
+             id="text4207"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4209"
+               x="37.512939"
+               y="403.47714">crew</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,1.0394343)"
+         id="g4361">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           x="35"
+           y="427.07309"
+           id="text3689"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="35"
+             y="427.07309"
+             id="tspan3691">Trying to get back to New Hope to visit my sick wife. No money,</tspan><tspan
+             sodipodi:role="line"
+             x="35"
+             y="439.07309"
+             id="tspan3693">but I have crew experience! Will work for free for a ride in the</tspan><tspan
+             sodipodi:role="line"
+             x="35"
+             y="451.07309"
+             id="tspan3695">right direction.</tspan></text>
+        <path
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 25.153471,425.3385 0,-11.5 510.844699,0 4.28109,11.5"
+           id="path4061"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g4219"
+           transform="translate(0,62.850183)">
+          <rect
+             ry="3"
+             rx="3"
+             y="393.12033"
+             x="35.699631"
+             height="14.795746"
+             width="27.586502"
+             id="rect4221"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text4223"
+             y="403.47714"
+             x="37.512939"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="403.47714"
+               x="37.512939"
+               id="tspan4225"
+               sodipodi:role="line">crew</tspan></text>
+        </g>
+        <g
+           id="g4238">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4229"
+             width="22.470789"
+             height="14.795746"
+             x="65.419487"
+             y="455.97052"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="67.232796"
+             y="466.32733"
+             id="text4231"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4233"
+               x="67.232796"
+               y="466.32733">taxi</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-264.15454)"
+         id="g4376">
+        <text
+           sodipodi:linespacing="100%"
+           id="text3697"
+           y="489.83057"
+           x="35"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+           xml:space="preserve"><tspan
+             y="489.83057"
+             x="35"
+             sodipodi:role="line"
+             id="tspan3722">Want to explore the galaxy? ExtraSolar Minerals Corp. will pay for</tspan><tspan
+             y="501.83057"
+             x="35"
+             sodipodi:role="line"
+             id="tspan3736">planetary surveys of unexplored systems in the vicinity of [-14,98,03]!</tspan></text>
+        <path
+           sodipodi:nodetypes="cccc"
+           id="path4063"
+           d="m 25.153471,487.43339 0,-11.5 510.844699,0 4.28109,11.5"
+           style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           id="g4243"
+           transform="translate(0,303.03494)">
+          <rect
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none"
+             id="rect4245"
+             width="46.34412"
+             height="14.795746"
+             x="35.699631"
+             y="205.06712"
+             rx="3"
+             ry="3" />
+          <text
+             xml:space="preserve"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             x="37.512939"
+             y="215.42393"
+             id="text4247"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan4249"
+               x="37.512939"
+               y="215.42393">contract</tspan></text>
+        </g>
+        <g
+           id="g4262"
+           transform="translate(-2.583825,0)">
+          <rect
+             ry="3"
+             rx="3"
+             y="508.10205"
+             x="86.687111"
+             height="14.795776"
+             width="59.780014"
+             id="rect4253"
+             style="fill:#000000;fill-opacity:0.16017318;fill-rule:nonzero;stroke:none" />
+          <text
+             sodipodi:linespacing="100%"
+             id="text4255"
+             y="518.45886"
+             x="88.50042"
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             xml:space="preserve"><tspan
+               y="518.45886"
+               x="88.50042"
+               id="tspan4257"
+               sodipodi:role="line">exploration</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="quick-info"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path3857"
+       d="m 784.11482,499.26331 0,-215.95453 -4.28109,-11.5 -190.26005,0 0,202.97381 133.20479,0 0,14.31134 2.72488,10.16938 58.61147,0 z"
+       style="fill:#ffffff;fill-opacity:0.71372549;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3905"
+       y="310.36554"
+       x="595.11206"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3907"
+         y="310.36554"
+         x="595.11206"
+         sodipodi:role="line">Credits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="595.11206"
+       y="329.45349"
+       id="text3909"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="595.11206"
+         y="329.45349"
+         id="tspan3911">Legal Standing</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3913"
+       y="353.51648"
+       x="595.11206"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3915"
+         y="353.51648"
+         x="595.11206"
+         sodipodi:role="line"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold">Ship Information</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3917"
+       y="371.88382"
+       x="711.40955"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3919"
+         y="371.88382"
+         x="711.40955"
+         sodipodi:role="line">Used</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="771.7644"
+       y="371.88382"
+       id="text3921"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="771.7644"
+         y="371.88382"
+         id="tspan3923">Free</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       x="595.11206"
+       y="288.58609"
+       id="text3901"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3903"
+         x="595.11206"
+         y="288.58609">Personal Information</tspan></text>
+    <path
+       style="fill:#29297e;fill-opacity:1;stroke:none;display:inline"
+       d="m 736.61975,479.1557 c -2.42901,0 -4.40101,2.00485 -4.40101,4.485 0,1.47026 0.6942,2.77554 1.76376,3.59473 -4.18442,1.47365 -3.15798,6.7359 -3.15798,6.7359 l 11.57366,0 c 0,0 0.86357,-5.11437 -3.22517,-6.66871 1.1165,-0.81442 1.84776,-2.15408 1.84776,-3.66192 0,-2.48015 -1.97201,-4.485 -4.40102,-4.485 z"
+       id="path3865" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       x="746.91022"
+       y="492.69144"
+       id="text3874"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3876"
+         x="746.91022"
+         y="492.69144">$</tspan></text>
+    <path
+       id="path3898"
+       style="fill:#29297e;fill-opacity:1;stroke:none;display:inline"
+       d="m 771.34775,494.21063 c -0.75705,-2.36511 -2.41486,-2.84639 -4.1659,-3.13318 l -1.30836,-0.61975 c 0.14645,-1.92114 0.22058,-3.00474 0.647,-4.42255 0.5642,-1.87592 2.426,-4.62448 3.96669,-7.00839 0.55009,-0.13689 1.17202,-0.15707 1.72114,0 1.54069,2.38391 3.40248,5.13247 3.96669,7.00839 0.42642,1.41781 0.50056,2.50141 0.647,4.42255 l -1.30837,0.61975 c -1.75102,0.28679 -3.40884,0.76807 -4.16589,3.13318 z"
+       sodipodi:nodetypes="cccsccsccc" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text3961"
+       y="310.36554"
+       x="749.00659"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3963"
+         y="310.36554"
+         x="749.00659"
+         sodipodi:role="line">100</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3953"
+       y="453.55466"
+       x="595.11206"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3955"
+         y="453.55466"
+         x="595.11206"
+         sodipodi:role="line">Total Ship Mass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="713.02673"
+       y="453.55466"
+       id="text3965"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="713.02673"
+         y="453.55466"
+         id="tspan3967">152t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="595.11206"
+       y="391.32376"
+       id="text3941"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="595.11206"
+         y="391.32376"
+         id="tspan3943">Cargo Space</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3969"
+       y="391.32376"
+       x="771.4187"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3971"
+         y="391.32376"
+         x="771.4187"
+         sodipodi:role="line">9t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="720.66736"
+       y="391.32376"
+       id="text3973"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="720.66736"
+         y="391.32376"
+         id="tspan3975">74t</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3945"
+       y="432.84616"
+       x="595.11206"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3947"
+         y="432.84616"
+         x="595.11206"
+         sodipodi:role="line">Ship Equipment</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3981"
+       y="432.84616"
+       x="720.66736"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3983"
+         y="432.84616"
+         x="720.66736"
+         sodipodi:role="line">77t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="595.11206"
+       y="413.30078"
+       id="text3949"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="595.11206"
+         y="413.30078"
+         id="tspan3951">Cabins</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3977"
+       y="413.30078"
+       x="733.83923"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3979"
+         y="413.30078"
+         x="733.83923"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="772.33276"
+       y="413.30078"
+       id="text3985"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="772.33276"
+         y="413.30078"
+         id="tspan3987">2</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3993"
+       y="329.45349"
+       x="738.07886"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       xml:space="preserve"><tspan
+         id="tspan3995"
+         y="329.45349"
+         x="738.07886"
+         sodipodi:role="line">Clean</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="controls-fg"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="display:inline"
+       id="g4400"
+       transform="translate(5.8465282,0)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4390"
+         d="m 560.17327,58.465286 0,430.450674"
+         style="fill:none;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         ry="3"
+         rx="3"
+         y="87.024605"
+         x="555.00562"
+         height="136.65892"
+         width="10.335327"
+         id="rect4392"
+         style="fill:#29297e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       x="24.951283"
+       y="39.451862"
+       id="text3751"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3753"
+         x="24.951283"
+         y="39.451862">Los Angeles Starport Central Bulletin Board</tspan></text>
+    <rect
+       style="fill:none;stroke:#29297e;stroke-opacity:1"
+       id="rect5352"
+       width="560.43323"
+       height="445.01797"
+       x="15.208033"
+       y="51.238724" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="connection-face"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;fill-opacity:0.71372549;stroke:#29297e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 784.11482,246.40094 0,-202.799838 -4.28109,-11.5 -190.26005,0 0,189.819118 104.94656,0 0,14.31134 2.72488,10.16938 86.8697,0 z"
+       id="path5386"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#29297e;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono"
+       x="700.83679"
+       y="237.77115"
+       id="text5394"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="700.83679"
+         y="237.77115"
+         id="tspan5396"
+         style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold">Connection</tspan></text>
+    <image
+       y="39.918388"
+       x="596.84424"
+       id="image5382"
+       height="174"
+       width="180"
+       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/bulletin-board/connection-face-scaled.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="console"
+     sodipodi:insensitive="true">
+    <image
+       y="520"
+       x="0"
+       id="image3601"
+       height="80"
+       width="800"
+       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/bulletin-board/control-panel.png" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffa900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       x="675.31714"
+       y="567.12134"
+       id="text3675"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="675.31714"
+         y="567.12134"
+         id="tspan3677"
+         style="font-size:10px;font-weight:normal;fill:#ffa900;fill-opacity:1;-inkscape-font-specification:Andale Mono">Comms link</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3681"
+       y="549.12134"
+       x="4.3171387"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffa900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
+       xml:space="preserve"><tspan
+         style="font-size:10px;font-weight:normal;fill:#ffa900;fill-opacity:1;-inkscape-font-specification:Andale Mono"
+         id="tspan3683"
+         y="549.12134"
+         x="4.3171387"
+         sodipodi:role="line">LT: 16:21  1 Jan 3200</tspan></text>
+  </g>
+</svg>
