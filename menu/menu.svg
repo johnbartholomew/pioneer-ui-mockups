@@ -14,7 +14,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="menu.svg"
    inkscape:export-filename="/space/jpab/code/personal/pioneer/ui-mockups/menu-mock.png"
    inkscape:export-xdpi="90"
@@ -72,14 +72,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="400"
+     inkscape:cx="402"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="947"
-     inkscape:window-x="0"
+     inkscape:window-width="1551"
+     inkscape:window-height="1003"
+     inkscape:window-x="129"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,19 +103,21 @@
      id="layer1"
      transform="translate(0,-452.36218)">
     <image
-       y="452.36218"
-       x="0"
-       id="image2864"
-       height="600"
+       sodipodi:absref="/mnt/data/jpab/projects/external/pioneer/ui-mockups/menu/menu-spinner-starfield.png"
+       xlink:href="menu-spinner-starfield.png"
        width="800"
-       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/menu-spinner-starfield.png" />
+       height="600"
+       id="image2864"
+       x="0"
+       y="452.36218" />
     <image
-       y="642.36218"
-       x="68"
-       id="image3985"
-       height="275"
+       sodipodi:absref="/mnt/data/jpab/projects/external/pioneer/ui-mockups/menu/menu-spinner-lanner.png"
+       xlink:href="menu-spinner-lanner.png"
        width="345"
-       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/menu-spinner-lanner.png" />
+       height="275"
+       id="image3985"
+       x="68"
+       y="642.36218" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -293,12 +295,13 @@
      style="display:none"
      sodipodi:insensitive="true">
     <image
-       style="display:inline"
-       y="248.97807"
-       x="662.95306"
-       id="image3871"
-       height="18"
+       sodipodi:absref="/mnt/data/jpab/projects/external/pioneer/ui-mockups/menu/../normal-cursor-on-black.png"
+       xlink:href="../normal-cursor-on-black.png"
        width="11"
-       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/normal-cursor-on-black.png" />
+       height="18"
+       id="image3871"
+       x="662.95306"
+       y="248.97807"
+       style="display:inline" />
   </g>
 </svg>

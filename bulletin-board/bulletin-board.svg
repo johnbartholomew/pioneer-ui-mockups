@@ -14,7 +14,7 @@
    height="600"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="bulletin-board.svg"
    inkscape:export-filename="/space/jpab/code/personal/pioneer/ui-mockups/bulletin-board/bulletin-board.png"
    inkscape:export-xdpi="90"
@@ -96,14 +96,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.02625"
-     inkscape:cx="400"
-     inkscape:cy="300"
+     inkscape:cx="404.87211"
+     inkscape:cy="292.20463"
      inkscape:document-units="px"
-     inkscape:current-layer="g5233"
+     inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="947"
-     inkscape:window-x="0"
+     inkscape:window-width="1551"
+     inkscape:window-height="1003"
+     inkscape:window-x="129"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="false"
@@ -129,7 +129,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1117,12 +1117,13 @@
          id="tspan5396"
          style="font-weight:bold;-inkscape-font-specification:Andale Mono Bold">Connection</tspan></text>
     <image
-       y="39.918388"
-       x="596.84424"
-       id="image5382"
-       height="174"
+       sodipodi:absref="/mnt/data/jpab/projects/external/pioneer/ui-mockups/bulletin-board/connection-face-scaled.png"
+       xlink:href="connection-face-scaled.png"
        width="180"
-       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/bulletin-board/connection-face-scaled.png" />
+       height="174"
+       id="image5382"
+       x="596.84424"
+       y="39.918388" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1130,12 +1131,13 @@
      inkscape:label="console"
      sodipodi:insensitive="true">
     <image
-       y="520"
-       x="0"
-       id="image3601"
-       height="80"
+       sodipodi:absref="/mnt/data/jpab/projects/external/pioneer/ui-mockups/bulletin-board/control-panel.png"
+       xlink:href="control-panel.png"
        width="800"
-       xlink:href="file:///space/jpab/code/personal/pioneer/ui-mockups/bulletin-board/control-panel.png" />
+       height="80"
+       id="image3601"
+       x="0"
+       y="520" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffa900;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Andale Mono Bold"
